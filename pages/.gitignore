@@ -1,0 +1,5 @@
+#Remover diretorio framework next
+.next
+
+#Remover módulos do node
+node_modules
